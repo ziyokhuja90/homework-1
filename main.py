@@ -1,4 +1,5 @@
 
+# bu yangi funksiya
 def hisobla(*ism):
     """
         bu hisoblash uchun funksiya. sizdan hozir 2 ta son va amalni so'raymiz
