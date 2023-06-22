@@ -1,2 +1,3 @@
 
 # kitoblar haqidagi funksiyalar
+def 
